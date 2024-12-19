@@ -1,1 +1,1 @@
-# jenkins-pipeline-tutorial
+# This simple CI/CD project with js code. 
